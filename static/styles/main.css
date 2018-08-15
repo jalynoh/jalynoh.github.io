@@ -31,7 +31,7 @@ body {
 	background-color: #b2b0a1;
 }
 .project-div {
-	height: 700px
+	height: 600px
 }
 .margin-30 {
 	margin: 30px 30px 30px 30px;
@@ -97,6 +97,22 @@ nav ul li a:hover {
 	background-color: #f5f5f5;
 	color: #617872
 }
+.center-image-link {
+	text-align: center;
+	margin-top: 20%;
+}
+.center-image-link a {
+	text-decoration: none;
+	font-size: 20px;
+	color: #617872 ;
+	background-color: #f5f5f5;
+	padding: 15px 20px 20px 20px;
+}
+.center-image-link a:hover {
+	background-color: #617872;
+	color: #f5f5f5
+}
+
 .link-green {
 	text-decoration: none;
 	color: #f5f5f5;
